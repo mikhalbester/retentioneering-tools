@@ -279,7 +279,9 @@ __TEMPLATE__ = """
             <div>
               <input type="button" value="Set thresholds" onclick="setThresholds()">
             </div>
-          </div>
+              <div id="check-boxes">
+              </div>
+            </div>
 
 
 
